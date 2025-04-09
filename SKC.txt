@@ -1,0 +1,17 @@
+1. Education:
+https://github.com/dinhnguyenhd/education
+
+2. Simple code project:
++ Build desktop application with Swing, Jdbc and MySQL
+https://github.com/dinhnguyenhd/swing-jdbc
++ Build simple Microservice with Zuul, Eureka, Spring Boot and Kafka
+https://github.com/dinhnguyenhd/microservice
+
+3. Website hoàn chỉnh:
+Build website with Spring Rest and VueJS
++ Travel:
+https://www.youtube.com/watch?v=6PA69RJBXcw
++ Job&Tech
+https://www.youtube.com/watch?v=8MyXLJlCn6c
++ Shopping
+https://www.youtube.com/watch?v=baBmV-MTHjY
